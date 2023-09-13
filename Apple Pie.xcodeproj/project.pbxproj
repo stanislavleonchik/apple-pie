@@ -290,6 +290,8 @@
 				DEVELOPMENT_TEAM = T9745UD962;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Apple Pie/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Apple Pie";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.kids-games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -318,6 +320,8 @@
 				DEVELOPMENT_TEAM = T9745UD962;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Apple Pie/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Apple Pie";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.kids-games";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
