@@ -1,7 +1,7 @@
 # Apple Pie
 
 ### About the game
-This is a simple mobile game in which you have to guess a word having a list of letters (in the basic version it is a list of American states). With every wrong answer, apples disappear from the tree. You can change the list of predicted words in the structure <a href="https://github.com/lgreydev/ApplePie/blob/main/ApplePie/ListOfWords.swift" rel="ListOfWords" target="_blank">ListOfWords</a>. Words are taken from the list in random order.
+This is a simple mobile game in which you have to guess a word having a list of letters (in the basic version it is a list of American states). With every wrong answer, apples disappear from the tree. You can change the list of predicted words in the structure ListOfWords. Words are taken from the list in random order.
 
 ### Attention!
 If you are using your own list of predicted words, do not use divisions and spaces.
